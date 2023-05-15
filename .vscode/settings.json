@@ -1,0 +1,13 @@
+{
+  "workbench.colorCustomizations": {
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#faf1f6",
+    "tab.activeBorder": "#faf1f6",
+    "titleBar.activeBackground": "#ebcddf",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.border": "#ebcddf",
+    "titleBar.inactiveBackground": "#ebcddf99",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#ebcddf"
+}
